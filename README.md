@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ehsidawi
-- 👀 I’m interested in IAM; PIAM; CIAM; Okta; etc
-- 🌱 I’m currently learning scripting 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://taplink.cc/ehsidawi)
+<!DOCTYPE html>
+<html>
+<head>
 
-<!---
-ehsidawi/ehsidawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1>👋 Hi, I'm Ehsan Nidawi</h1>
+
+<p>👀 I'm a Principal Cyber Security PIAM working in Ally Financial. I'm interested in IAM; PIAM; CIAM; and GIAM.</p>
+
+<p>🌱 I'm currently learning scripting HTML and JS.</p>
+
+<p>💞️ I'm looking to collaborate on new technology.</p>
+
