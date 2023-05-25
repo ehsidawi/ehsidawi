@@ -11,7 +11,7 @@
 
 <p>💞️ I'm looking to collaborate on new technology.</p>
 
-<p> This is some text with an <a href="https://taplink.cc/ehsidawi">My mini site</a>.</p>
+<p>🔎 You can find me on this link <a href="https://taplink.cc/ehsidawi">My Mini Site</a>.</p>
 
   
 
