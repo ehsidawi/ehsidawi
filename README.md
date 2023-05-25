@@ -10,5 +10,8 @@
 <p>🌱 I'm currently learning scripting HTML and JS.</p>
 
 <p>💞️ I'm looking to collaborate on new technology.</p>
+
+<p> This is some text with an <a href="https://taplink.cc/ehsidawi">My mini site</a>.</p>
+
   
-<script src="//taplink.cc/id:7160211/widget/" async></script>
+
