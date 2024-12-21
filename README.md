@@ -1,4 +1,4 @@
-# Hi, I’m Ehsan Nidawi! 👋
+# Hi, I’m Ehsan! 👋
 
 ### Welcome to my GitHub profile!
 
