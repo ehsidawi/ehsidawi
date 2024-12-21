@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-I’m a **Cloud Infrastructure and Identity Management Expert** with over 10 years of experience in IT, specializing in **Identity and Access Management (IAM)** and **Cybersecurity**. I’ve worked on large-scale projects across various industries, from government agencies to major tech companies.
+I’m a ** Infrastructure and Identity Access Management Expert covering IAM CIAM, PAM, and IGA** with over 10 years of experience in IT, specializing in **Identity and Access Management (IAM)** and **Cybersecurity**. I’ve worked on large-scale projects across various industries, from government agencies to major tech companies.
 
 I’m passionate about building scalable, secure infrastructure solutions, and I love helping organizations enhance their security and operational efficiency. Below, you'll find some highlights of my career and key projects, including the latest: **Pulse**.
 
