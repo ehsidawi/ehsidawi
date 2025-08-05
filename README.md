@@ -1,4 +1,4 @@
-# Ehsan Sidawi 👋
+# Ehsan Nidawi 👋
 ## Infrastructure & Identity Access Management Expert
 
 > Specializing in IAM, CIAM, PAM, and IGA with 10+ years of experience in Cybersecurity
